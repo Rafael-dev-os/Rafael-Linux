@@ -5,3 +5,4 @@ Rafael Linux is an LFS made by me, Rafael, it is VERY barebones, but hey, you ha
 # A challenge for YOU!
 
 install it on the disk, yeah just that
+and update the kernel, try that too
